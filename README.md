@@ -6,4 +6,4 @@ To play the game, run StartGame.java. From there, a manu will appear. A player c
 
 When playing, each player takes turns entering the row and column number (1-9) in which to place an x or o. 
 
-An active inner game uses lowecase x's and o's to denote each player's positions. When an inner game is won, each inner space has a capital X or O corresponding to the winner or a W is no one has won.
+An active inner game uses lowecase x's and o's to denote each player's positions. When an inner game is won, each inner space has a capital X or O corresponding to the winner or a W if no one has won.
